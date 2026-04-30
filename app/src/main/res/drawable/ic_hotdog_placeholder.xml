@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Bun top -->
+    <path
+        android:fillColor="#F4A422"
+        android:pathData="M20,50 Q20,20 60,20 Q100,20 100,50 Z" />
+    <!-- Sausage -->
+    <path
+        android:fillColor="#8B2500"
+        android:pathData="M15,48 L105,48 L105,70 L15,70 Z" />
+    <!-- Mustard -->
+    <path
+        android:strokeColor="#FFD700"
+        android:strokeWidth="3"
+        android:pathData="M20,58 L30,52 L40,58 L50,52 L60,58 L70,52 L80,58 L90,52 L100,58"
+        android:fillColor="#00000000" />
+    <!-- Bun bottom -->
+    <path
+        android:fillColor="#D4891E"
+        android:pathData="M15,68 L105,68 Q105,95 60,95 Q15,95 15,68 Z" />
+</vector>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_preview_size">280dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_corner_radius">28dp</dimen>
+    <dimen name="result_text_size">48sp</dimen>
+    <dimen name="result_subtitle_size">16sp</dimen>
+    <dimen name="card_corner_radius">20dp</dimen>
+    <dimen name="content_padding">24dp</dimen>
+    <dimen name="button_spacing">12dp</dimen>
+</resources>

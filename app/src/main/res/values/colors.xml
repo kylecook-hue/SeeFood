@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1A1A2E</color>
+    <color name="primary_variant">#16213E</color>
+    <color name="secondary">#E94560</color>
+    <color name="background">#0F3460</color>
+    <color name="surface">#1A1A2E</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="hotdog_green">#00C853</color>
+    <color name="hotdog_green_dark">#007B33</color>
+    <color name="not_hotdog_red">#D50000</color>
+    <color name="not_hotdog_red_dark">#9B0000</color>
+
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+
+    <color name="button_camera">#E94560</color>
+    <color name="button_gallery">#533483</color>
+
+    <color name="idle_card">#1E2A3A</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
